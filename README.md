@@ -1,1 +1,3 @@
-# como-comprar-tron-trx
+[**Cómo comprar TRON (TRX)**](https://topcryptoguide.com/como-comprar-tron-trx/)
+
+Este artículo explica **cómo comprar la criptomoneda TRON (TRX)**, destacando el proceso de compra en plataformas como **Binance**, donde primero debes **crear una cuenta, verificar tu email y habilitar seguridad adicional (2FA)** antes de depositar fondos (fiat o cripto) y ejecutar la compra desde la interfaz de trading. TRON es una criptomoneda descentralizada enfocada en aplicaciones de entretenimiento y transacciones rápidas sobre su propia blockchain, fundada por Justin Sun en 2017. También se mencionan secciones del artículo que cubren cómo comprar TRX en diferentes países de Latinoamérica, sugiriendo adaptaciones según mercado local. :contentReference[oaicite:0]{index=0}
